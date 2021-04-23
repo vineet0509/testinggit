@@ -1,6 +1,4 @@
-<?php 
-echo "hi";
+<html >
 
 
-
-?>
+</html>
